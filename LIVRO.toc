@@ -1,0 +1,57 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {part}{A conquista de si}{9}
+\contentsline {chapter}{A mulher que eu me tornei}{13}
+\contentsline {chapter}{Saudade}{15}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {ABC}} oral \textsc {i} }{17}
+\contentsline {chapter}{Tudo o que eu pensei mas não falei na noite passada}{19}
+\contentsline {chapter}{Ontem}{21}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {ABC}} oral \textsc {\MakeTextLowercase {II}}}{23}
+\contentsline {chapter}{Só de olhar nos olhos dele}{25}
+\contentsline {chapter}{A arte de chupar}{27}
+\contentsline {chapter}{Hoje de madrugada}{29}
+\contentsline {chapter}{\textsc {\MakeTextLowercase {ABC}} anal}{33}
+\contentsline {chapter}{Na cama}{35}
+\contentsline {chapter}{Gosto de ferro}{37}
+\contentsline {chapter}{Ejaculação}{39}
+\contentsline {chapter}{Quem com falo fere, com falo será ferido}{41}
+\contentsline {chapter}{Fomento}{45}
+\contentsline {chapter}{A puta}{47}
+\contentsline {chapter}{No vestiário}{51}
+\contentsline {chapter}{Com palavras}{53}
+\contentsline {chapter}{Planos}{55}
+\contentsline {part}{O percurso}{69}
+\contentsline {chapter}{Onipotência}{73}
+\contentsline {chapter}{Vulnerabilidade}{75}
+\contentsline {chapter}{Desamparo}{77}
+\contentsline {chapter}{Negações}{81}
+\contentsline {chapter}{À deriva}{85}
+\contentsline {chapter}{Prerrogativas}{87}
+\contentsline {chapter}{Capital flexível}{99}
+\contentsline {part}{O eu no mundo}{109}
+\contentsline {chapter}{A mulher perfeita}{113}
+\contentsline {chapter}{Caralho}{115}
+\contentsline {chapter}{O comunista}{117}
+\contentsline {chapter}{A jornalista}{119}
+\contentsline {chapter}{O casal gay}{121}
+\contentsline {chapter}{O escritor libertário}{123}
+\contentsline {chapter}{A libertina}{125}
+\contentsline {chapter}{Minha orientadora}{127}
+\contentsline {chapter}{Minha mãe}{129}
+\contentsline {chapter}{A artista plástica}{131}
+\contentsline {chapter}{A historiadora}{133}
+\contentsline {chapter}{O marido}{135}
+\contentsline {chapter}{O colega}{137}
+\contentsline {chapter}{O intelectual}{139}
+\contentsline {chapter}{O cineasta}{141}
+\contentsline {chapter}{O escritor politizado}{143}
+\contentsline {chapter}{O escritor introspectivo}{145}
+\contentsline {chapter}{Ele}{147}
+\contentsline {chapter}{O militante}{149}
+\contentsline {chapter}{O garçom}{151}
+\contentsline {chapter}{O ator}{153}
+\contentsline {chapter}{Novo sonho recorrente}{155}
+\contentsline {chapter}{Antes}{157}
+\contentsline {chapter}{Durante}{159}
+\contentsline {chapter}{Depois}{161}
+\contentsfinish 
