@@ -1,0 +1,50 @@
+\documentclass[11pt]{book} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[ebook]{hedra}
+\usepackage{a4wide}
+\usepackage{latexsym}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{hevea}
+\usepackage{url}
+\usepackage{makeidx}
+\usepackage{color,colortbl}
+\usepackage{ifthen,calc,array,alltt}
+\usepackage{suite-macros}
+%\usepackage{graphic}
+
+\newcommand{\epigraph}[2]{\small#1\\\hfill#2}
+\newcommand{\versal}[1]{#1}
+\newcommand{\port}{\selectlanguage{brazilian}}
+\newcommand{\pt}[1]{\foreignlanguage{brazilian}{#1}}
+\newcommand{\italiano}{\selectlanguage{italian}}
+\newcommand{\alemao}{\selectlanguage{ngerman}}
+\newcommand{\frances}{\selectlanguage{french}}
+\newcommand{\ingles}{\selectlanguage{english}}
+\newcommand{\russo}{\selectlanguage{russian}}
+\newcommand{\letra}[2]{\lettrine[lines=3,nindent=-.1mm,findent=2mm]{#1}{#2}}
+\renewcommand{\asterisc}{\begin{center} *\,*\,* \end{center}}
+\renewcommand{\subsection}[1]{\textsc{#1}:\quad}
+\newcommand{\gr}[1]{#1}
+\newcommand{\chapterspecial}[3]{%
+      \chapter[#1, por #3]%
+    {#1. {#2}}}%
+\newcommand{\paginabranca}{}
+\newcommand{\hedramarkboth}[2]{}
+\newcommand{\EP}{}
+\newcommand{\qb}{}
+\newcommand{\ai}{ª}
+\newcommand{\oi}{º}
+\newcommand{\sectionitem}{***}
+\renewcommand{\footnoteInSection}[1]{\footnote{#1}}
+\newenvironment{hedraquote}{\begin{quote}}{\end{quote}}
+
+
+
+\begin{document}
+\par\imgsrc{CREDITOS.png}\par
+%\tableofcontents
+\include{INPUTS}
+%\include{TESTE}
+\end{document}
+
+
